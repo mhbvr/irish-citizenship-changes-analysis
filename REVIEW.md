@@ -1,4 +1,4 @@
-# Critical review of “Citizenship, considered”
+# Critical review of “Analysis of the proposed amendment to the citizenship law”
 
 Reviewed 29 September 2026, after the rewrite that removed recommendations, added a
 conclusion and expanded the overview. Written from the point of view of a sceptical
