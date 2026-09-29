@@ -53,7 +53,7 @@
   "jobs": {
     "title": "CSO · Labour Force Survey, employment by citizenship (QLF59)",
     "url": "https://data.cso.ie/table/QLF59",
-    "note": "Q2 2021 to Q2 2026: employment rose by 457,100; non-Irish citizens accounted for 215,900 (47%). Non-Irish share of employment 16.6% (2021) and 21.5% (2026). Naturalised migrants are counted as Irish citizens, so these figures understate migrants’ share."
+    "note": "Author’s calculation; the CSO does not publish this percentage. It is the non-Irish share of the net change in the number of people in employment, not of “jobs created”. Main base, Q2 2021 to Q2 2026: employment rose by 457,100, of which non-Irish citizens 215,900 (47.2%). The result depends on the base: 42.9% from Q1 2021 to Q1 2026, about 52% from the 2021 annual average, about 65% from a Q4 2021 base. Q1 and Q2 2021 were depressed by COVID-19 restrictions, which flatters growth measured from them. Non-Irish share of employment 16.6% (Q2 2021) and 21.5% (Q2 2026). Naturalised migrants are counted as Irish citizens, so these figures understate migrants’ share."
   },
   "sectors": {
     "title": "Oireachtas · Employment permits by type and sector (Excel)",
@@ -134,10 +134,10 @@
     "archive": "research/nmbi-register-2024.pdf"
   },
   "doctors": {
-    "title": "Medical Council · Medical Workforce Intelligence Report 2024",
-    "url": "https://www.medicalcouncil.ie/news-and-publications/reports/medical-workforce-intelligence-report-2024.pdf",
-    "note": "Clinically active doctors by country of basic medical qualification: Ireland 58.3%, EU/UK 13.8%, elsewhere 27.8% (up from 23.3% in 2022). Qualification location, not nationality.",
-    "archive": "research/medical-council-workforce-2024.pdf"
+    "title": "Medical Council · Medical Workforce Intelligence Report 2025",
+    "url": "https://www.medicalcouncil.ie/news-and-publications/publications/medical-workforce-intelligence-report-2025.pdf",
+    "note": "Published 2 September 2026. Table 1 (p. 18): 22,257 clinically active doctors by country of basic medical qualification: Ireland 56.6%, EU/UK 13.9%, international 29.5% (up from 27.8% in 2024 and 23.3% in 2022). Outside Ireland: 13.9% + 29.5% = 43.4%. Qualification location, not nationality.",
+    "archive": "research/medical-council-workforce-2025.pdf"
   },
   "fiscal": {
     "title": "ESRI · Literature review on the fiscal impacts of immigration, June 2026",
@@ -185,7 +185,7 @@
   "policyanswer": {
     "title": "Oireachtas · PQ 894, 16 September 2026",
     "url": "https://www.oireachtas.ie/en/debates/question/2026-09-16/894/",
-    "note": "Grouped answer confirms test standards, methods, exemptions, civics content and self-sufficiency details were not settled. Explains the intended immediate application to future applicants; the later Scheme uses commencement orders, so enactment and commencement are distinguished. Read from the cached official parliamentary answer.",
+    "note": "Grouped answer by the Minister of State confirms test standards, methods, exemptions, civics content and self-sufficiency details were not settled. States that the new residence periods are “intended to apply from enactment of the new Bill”; the later Scheme uses commencement orders, so enactment and commencement are distinguished. Read from the cached official parliamentary answer.",
     "archive": "research/parliamentary-answers.json"
   },
   "protectionlaw": {
