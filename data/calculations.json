@@ -1,0 +1,44 @@
+{
+  "annual_applications": 41511,
+  "tests_per_applicant": 2,
+  "extra_sittings_factor": 1.2,
+  "operating_days": 200,
+  "annual_sittings_rounded_up": 99627,
+  "centre_scenarios": [
+    [
+      10,
+      2,
+      "4,000",
+      25
+    ],
+    [
+      20,
+      2,
+      "8,000",
+      13
+    ],
+    [
+      20,
+      4,
+      "16,000",
+      7
+    ]
+  ],
+  "sensitivity_centres": {
+    "30_percent_exempt": 9,
+    "no_retakes": 11,
+    "80_percent_utilisation": 16
+  },
+  "selected_sectors_share_percent": 66.7,
+  "minors_share_percent": 23.2,
+  "protection_route_share_percent": 2.4,
+  "mean_above_median_percent": 25.7,
+  "critical_and_general_permits_share_percent": 93.0,
+  "non_eu_educated_practising_share_percent": 48.8,
+  "non_eu_educated_patient_facing_share_percent": 50.2,
+  "spouse_route_share_percent": 9.8,
+  "india_share_2016_percent": 10.3,
+  "india_share_2025_percent": 21.1,
+  "india_new_permits_2015_2020": 16427,
+  "india_certificates_2021_2025": 14669
+}

@@ -1,0 +1,35 @@
+measure,group,value,unit,period,source_key,source_url,locator
+NMBI registered,Irish educated,45640,people,1 June 2025,nmbi,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12,"Table 2, printed page 10"
+NMBI practising,Irish educated,41938,people,1 June 2025,nmbi,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12,"Table 2, printed page 10"
+NMBI patient-facing,Irish educated,37041,people,1 June 2025,nmbi,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12,"Table 2, printed page 10"
+NMBI registered,Other EU educated,2851,people,1 June 2025,nmbi,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12,"Table 2, printed page 10"
+NMBI practising,Other EU educated,2578,people,1 June 2025,nmbi,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12,"Table 2, printed page 10"
+NMBI patient-facing,Other EU educated,2393,people,1 June 2025,nmbi,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12,"Table 2, printed page 10"
+NMBI registered,Non-EU educated,43894,people,1 June 2025,nmbi,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12,"Table 2, printed page 10"
+NMBI practising,Non-EU educated,42432,people,1 June 2025,nmbi,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12,"Table 2, printed page 10"
+NMBI patient-facing,Non-EU educated,39760,people,1 June 2025,nmbi,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12,"Table 2, printed page 10"
+"Employment rate, ages 20–64",Ireland: non-EU citizens,77.4,percent,2024,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,"Footnote 19, printed page 29"
+"Employment rate, ages 20–64",EU: non-EU citizens,64.3,percent,2024,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,"Footnote 19, printed page 29"
+"Employment rate, ages 20–64",Ireland: national citizens,79.5,percent,2024,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,"Footnote 19, printed page 29"
+"Employment rate, ages 20–64",EU: national citizens,76.7,percent,2024,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,"Footnote 19, printed page 29"
+"Annual income tax and social insurance less benefits, Ireland",Native-born,940,EUR per person,2015–2019,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,"Section 3.1.2, printed page 22; JRC estimates as reported by ESRI"
+"Annual income tax and social insurance less benefits, Ireland",Non-EU migrants,1047,EUR per person,2015–2019,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,"Section 3.1.2, printed page 22; JRC estimates as reported by ESRI"
+"Annual income tax and social insurance less benefits, Ireland",Intra-EU migrants,1718,EUR per person,2015–2019,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,"Section 3.1.2, printed page 22; JRC estimates as reported by ESRI"
+"Third-level attainment, ages 25–64",Irish citizens,53,percent,Q2 2024,education,https://www.cso.ie/en/releasesandpublications/ep/p-eda/educationalattainmentthematicreport2024/profileofagesexnationalityandregion/,Table 3.4
+"Third-level attainment, ages 25–64",Non-Irish citizens,67,percent,Q2 2024,education,https://www.cso.ie/en/releasesandpublications/ep/p-eda/educationalattainmentthematicreport2024/profileofagesexnationalityandregion/,Table 3.4
+"Family-benefit receipt, ages 15–65",Irish-born,47,percent,2024,welfare,https://www.esri.ie/system/files/publications/RS229.pdf#page=22,Table 4.1
+"Family-benefit receipt, ages 15–65",Foreign-born,58,percent,2024,welfare,https://www.esri.ie/system/files/publications/RS229.pdf#page=22,Table 4.1
+Annual employment earnings,"Mean, all",56356,EUR,2024,earnings,https://www.cso.ie/en/releasesandpublications/ep/p-eaads/earningsanalysisusingadministrativedatasources2024/annualearnings/,Table 7.1; employments active for at least 50 weeks
+Annual employment earnings,"Median, all",44816,EUR,2024,earnings,https://www.cso.ie/en/releasesandpublications/ep/p-eaads/earningsanalysisusingadministrativedatasources2024/annualearnings/,Table 7.1; employments active for at least 50 weeks
+Annual employment earnings,"Median, women",40424,EUR,2024,earnings,https://www.cso.ie/en/releasesandpublications/ep/p-eaads/earningsanalysisusingadministrativedatasources2024/annualearnings/,Table 7.1; employments active for at least 50 weeks
+Annual employment earnings,"Median, men",48897,EUR,2024,earnings,https://www.cso.ie/en/releasesandpublications/ep/p-eaads/earningsanalysisusingadministrativedatasources2024/annualearnings/,Table 7.1; employments active for at least 50 weeks
+Unpaid carers,All unpaid carers,299128,people,Census 2022,carers,https://www.cso.ie/en/releasesandpublications/ep/p-cpp4/censusofpopulation2022profile4-disabilityhealthandcarers/carers/,Unpaid carers section
+Unpaid carers,Female unpaid carers,181592,people,Census 2022,carers,https://www.cso.ie/en/releasesandpublications/ep/p-cpp4/censusofpopulation2022profile4-disabilityhealthandcarers/carers/,Unpaid carers section
+"OECD net fiscal contribution, Ireland, % of GDP",Individual taxes less benefits and services: foreign-born,1.57,% of GDP,2006–2018 average,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,Printed p. 20
+"OECD net fiscal contribution, Ireland, % of GDP",Individual taxes less benefits and services: Irish-born,2.87,% of GDP,2006–2018 average,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,Printed p. 20
+"OECD net fiscal contribution, Ireland, % of GDP",Also charging congestible public goods: foreign-born,0.62,% of GDP,2006–2018 average,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,Printed p. 21
+"OECD net fiscal contribution, Ireland, % of GDP",Also charging congestible public goods: Irish-born,-2,% of GDP,2006–2018 average,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,Printed p. 21
+"OECD net fiscal contribution, Ireland, % of GDP",Also charging all public goods: foreign-born,-0.21,% of GDP,2006–2018 average,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,Printed pp. 21–22
+"OECD net fiscal contribution, Ireland, % of GDP",Also charging all public goods: Irish-born,-6.12,% of GDP,2006–2018 average,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,Printed pp. 21–22
+"OECD fiscal ratio, Ireland (contributions per unit received)",Foreign-born,1.52,ratio,2006–2018 average,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,Printed p. 22
+"OECD fiscal ratio, Ireland (contributions per unit received)",Irish-born,1.14,ratio,2006–2018 average,fiscal,https://www.esri.ie/system/files/publications/SUSTAT141.pdf,Printed p. 22

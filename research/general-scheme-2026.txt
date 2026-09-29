@@ -1,0 +1,469 @@
+
+
+===== PAGE 1 =====
+General Scheme of the Irish
+Nationality and Citizenship
+(Amendment) Bill 2026
+Prepared by the Department of Justice, Home Affairs and Migration
+gov.ie
+
+===== PAGE 2 =====
+Head 1 – Long title
+Head 2 - Short title and commencement
+Head 3 – Definitions
+Head 4 – Amendment of Section 6B of the Irish Nationality and Citizenship Act 1956 -
+Entitlement to Irish citizenship of persons born to certain non-nationals
+Head 5 - Amendment of Section 15 of the Irish Nationality and Citizenship Act 1956 -
+Conditions for issue of certificate
+Head 6 – Amendment of Section 15A of the Irish Nationality and Citizenship Act 1956 -
+Naturalisation of spouses of Irish citizens
+Head 7 – Insertion of new Section 15F of the Irish Nationality and Citizenship Act 1956
+- Self Sufficiency requirements
+Head 8 – Amendment of Section 16 of the Irish Nationality and Citizenship Act 1956 -
+Power to dispense with conditions of naturalisation in certain cases
+Head 9 - Amendment of Section 16a of the Irish Nationality and Citizenship Act 1956 -
+Calculation of period of residence in relation to application for naturalisation
+Head 10 – Amendment of Section 19 of the Irish Nationality and Citizenship Act 1956 –
+Revocation of Certificates of Naturalisation
+2
+
+===== PAGE 3 =====
+Head 1 - Long title
+Provide that:
+An Act to restate and modify certain aspects of the law relating to naturalisation and
+immigration, to include amending certain provisions governing how Irish citizenship is
+acquired, retained and revoked under the Irish Nationality and Citizenship Act 1956.
+Explanatory Note
+This is a standard provision setting out the purposes of the Bill.
+3
+
+===== PAGE 4 =====
+Head 2 - Short Title and commencement
+Provide that:
+(1). This Act may be cited as the Irish Nationality and Citizenship (Amendment) Bill
+2026.
+(2). This Act shall come into operation on such day or days as the Minister may appoint
+by order or orders either generally or with reference to any particular purpose or
+provision and different days may be so appointed for different purposes or different
+provisions.
+Explanatory Note
+These are standard provisions.
+This Head provides for the citation of the proposed Bill and provides that the Minister may
+commence any or all provisions as and when appropriate.
+4
+
+===== PAGE 5 =====
+Head 3: Definitions
+Provide that:
+“Act of 1956” means the Irish Nationality and Citizenship Act 1956
+“qualifying period of residence” means the qualifying period of residence as provided for by
+Section 15(1)(c) [of the Act of 1956.]
+“sufficient resources” and “minimum level of income” means as prescribed by the Minister
+provided for in Section 15(4) and Section 15F [of the Act of 1956.]
+Explanatory Note
+This head provides for certain definitions and interpretations.
+5
+
+===== PAGE 6 =====
+Head 4: Amendment to Section 6B of the Act of 1956
+Provide that:
+Section 6B of the Act of 1956 is amended
+1. By replacing subsection (4) with the following:
+“(4) Subject to subsection (4A) a period of residence in the State shall not be
+reckonable for the purposes of calculating a period of residence under section 6A if it
+is not reckoned when calculating a period of residence for the purposes of granting a
+certificate of naturalisation in accordance with section 16A (1).
+2. Inserting the following subsection after subsection (4):
+(4A) Subsection (4) shall not apply to a person born before the commencement of
+the Irish Nationality and Citizenship (Amendment) Act [2026].
+Explanatory Note
+The head is intended to ensure consistency remains between Section 6B (4) of the 1956
+Act, and Section 16A (1).
+6
+
+===== PAGE 7 =====
+Head 5 - Amendment to Section 15 of Act of 1956
+Provide that:
+Section 15 of the Act of 1956 is amended
+1. In subsection 1,
+a. by replacing paragraph (c) with the following text:
+“(c) has had a period of two year's continuous residence in the State immediately
+before the date of the application and, during the ten years immediately preceding
+that period, has had a total residence in the State amounting to six years;”
+b. by removing “and” from the end of paragraph (d)
+c. by inserting the following paragraphs after paragraph (e):
+“(f) subject to subsections (3), has sufficient resources for himself or herself not to
+become an unreasonable burden on the State;
+(g) has not committed any offences listed in the first schedule to this Act at any point
+before or after an application for naturalisation;
+(h) has demonstrated a proficiency of the Irish language or the English language, or
+Irish sign language to such a standard and verified in such a manner as may be
+prescribed by the Minister;
+(i) has demonstrated a knowledge and understanding of Irish civics [civics, society
+and politics] to such a standard and verified in such a manner as may be prescribed
+by the Minister;
+(j) has continued to reside in the state and adhere to the conditions specified in (b),
+(f) and (g), pending the Minister’s decision in respect of the application.
+7
+
+===== PAGE 8 =====
+2. In subsection (2), by replacing “(e)” with “(i)”.
+3. By inserting the following subsection after subsection (2):
+“(3) The conditions specified in subsection (1)(f) shall be considered to have been
+satisfied where the applicant —
+(a) is at the time of his or her application and during the application process, in
+receipt of at least the minimum level of income prescribed under section 15 F (1)
+[Head 7], and
+(b) is not, at the time of his or her application or at any time during the application
+process, in receipt of a prescribed social welfare payment or a prescribed housing
+support, and subject to subsection (4), has not, in the period of 2 years immediately
+preceding the application, been in receipt of such payment or such support, and
+(c) does not at the time of his or her application and during the application process,
+owe a debt to the Revenue Commissioners, owe a debt to the Department of Social
+Protection or have an outstanding court fine.
+(4) The Minister may grant an application for naturalisation under section 15(1) where the
+applicant does not satisfy the requirement under subsection (3)(b) where the Minister is
+satisfied that the applicant has been in receipt of a prescribed social welfare payment or a
+prescribed housing support for a period that does not, or periods the aggregate of which
+do not, exceed 6 months in the period of 2 years immediately preceding the application.”
+Explanatory Note
+Subhead 1(a) increases the period of time a person is required to be residing in the state
+before being eligible to apply for naturalisation. These changes are to establish a
+proportionate timeline that encourages steady economic and social integration before
+naturalisation, thus demonstrating a meaningful long-term connection to the country.
+8
+
+===== PAGE 9 =====
+Subhead 1(b) is punctuational change, reflecting the extension of the list in subsection 1.
+Subhead 1(c) inserts several new conditions for naturalisation including:
+Paragraph (f) which provides that the applicant is required to be self-sufficient. This is in line
+with a similar provision introduced to the family reunification process by the International
+Protection Act 2026. The wording proposed here mirrors in section 205(3)(d) of the
+International Protection Act 2026. The paragraph provides that the Minister, when assessing
+an application for naturalisation, must consider if the applicant has sufficient resources for
+himself or herself, such as not to be a burden on the State.
+The purpose of paragraph (g) is to clearly state that where an applicant has committed an
+immigration offence listed in the the first schedule of the Act this will preclude them from
+being granted naturalisation, whether this occurred prior to making an application for
+naturalisation or at some stage during the naturalisation process. This is to discourage
+abuse of immigration and naturalisation processes.
+Paragraph (h) provides the Minister with the authority to prescribe by regulation specific
+language requirements that applicants for naturalisation must demonstrate, that is, a
+requisite proficiency in Irish, English, or Irish sign language. In preparing these regulations
+the Department will work in close consultation with the Attorney General’s Office.
+Paragraph (i) provides the Minister with the authority to prescribe by regulation a specific
+standard of understanding of Irish civics and explicitly prove they possess a foundational
+knowledge of how Irish society, government, and the Constitution operate. This will bring
+Ireland into closer alignment with such requirements in other EU Member States. In
+preparing these regulations the Department will work in close consultation with the Attorney
+General’s Office.
+Paragraph (j) provides that the applicant is required to maintain lawful / legal residence in the
+state throughout the application process. This is to further discourage potential abuse of the
+naturalisation process and to bring a level of consistency with section 15(d), that is, that it is
+the applicant’s intention to continue to reside in the state. Further, the amendment confirms
+that certain naturalisation conditions are maintained throughout the application process. This
+is to ensure consistency and fairness across the cohort of all applicants and to reflect the
+policy position that it is not just a matter of applicants meeting the conditions for
+9
+
+===== PAGE 10 =====
+naturalisation in a moment in time but rather the conditions demonstrate a longer and
+permanent stability within the state. This reflects the intended permeance and gravity of the
+status being granted.
+Subhead 2 is a typographical change, reflecting the extension of the list in subhead 1.
+Subhead 3 is associated with subhead 1(c) and the new paragraph (f). Subhead 3 provides
+the framework under which the Minister, may assess if an applicant has sufficient resources
+for himself or herself, such as not to be a burden on the State. Subhead 3 mirrors the section
+205 subsections (6) to (9) (to the extent that they are relevant in this context) of the
+International Protection Act 2026.
+The proposed new subsection (3) outlines the main self-sufficiency criteria that an applicant
+must satisfy to apply for naturalisation. Subsection (3)(a) requires that the applicant, at the
+time of the application, must be in receipt of a minimum level of income prescribed by
+regulations to be made by the Minister for Justice, Home Affairs and Migration having taken
+into account of the CSO data on annual earnings and labour costs, the cost of living, along
+with other relevant matters.
+Subsection (3)(b) requires that the applicant is not, at the time of the application, in receipt of
+a prescribed social welfare payment or a prescribed housing support in the period of 2 years
+prior to the making of the application. The relevant social welfare payments and housing
+supports will be prescribed by way of regulations to be made by the Minister for Justice,
+Home Affairs and Migration, in consultation with the Minister for Social Protection and the
+Minister for Housing, Local Government and Heritage, as appropriate.
+Subsection (3)(c) requires that the applicant does not owe Revenue or Social Welfare debt
+to the State or have an outstanding court fine. This includes money or statutory obligations
+owed directly to a Government body, including but not exclusive to, monies owed to the
+Revenue Commissioners, any court fines, or social welfare overpayments.
+Subsection (4) provides that the Minister may grant naturalisation to a person who does not
+satisfy the requirements outlined under subsection (3)(b) where the Minister is satisfied that
+the applicant was in receipt of a prescribed social welfare or housing support for a period no
+longer than 6 months of the preceding 2 years.
+10
+
+===== PAGE 11 =====
+Head 6 – Amendment of Section 15A of Act of 1956
+Provide that:
+Section 15A of the Act of 1956 is amended
+1. In subparagraph 15A(1)(c)(i) by replacing “3” with “five”.
+2. In subparagraph 15A(1)(c)(ii) by replacing “3” with “five”.
+3. In subparagraph 15A(1)(e) by replacing “one” with “two”.
+4. Replacing subparagraph 15A(1)(f) with the following text:
+“(f) had, during the five years immediately preceding that period, a total residence in
+the island of Ireland amounting to three years.”
+5. By inserting the following paragraphs in subsection (1) after paragraph (h)
+“(i) has not committed any offences listed in the first schedule to this Act at any point
+before or after an application for naturalisation;
+(j) has demonstrated a proficiency of the Irish language or the English language, or
+Irish sign language to such a standard and verified in such a manner as may be
+prescribed by the Minister;
+(k) has demonstrated an understanding of Irish civics to such a standard and verified
+in such a manner as may be prescribed by the Minister;”
+11
+
+===== PAGE 12 =====
+Explanatory Note
+Subhead 1, 2, 3, and 4 are to increase the period of time a non-national spouse or civil
+partner of an Irish citizen should be residing in the state before being eligible to apply for
+naturalisation.
+These amendments are to establish a proportionate timeline that encourages steady
+economic and social integration before naturalisation, thus demonstrating a meaningful long-
+term connection to the country while acknowledging an enduring relationship with an Irish
+citizen. Taken together, these amendments are to assist in further deterring “marriages of
+convenience” as defined under the Civil Registration (Amendment) Act 2014 and thus
+entered into in order to solely exploit or abuse the immigration system.
+Subhead 5 inserts a number of new criteria to reflect additions being made in section 15 of
+the Act of 1956, to ensure consistency between these cohorts of applicants.
+The purpose of paragraph (i) is to clearly state that where an applicant has committed an
+immigration offence listed in the the first schedule of the Act this will preclude them from
+being granted naturalisation, whether this occurred prior to making an application for
+naturalisation or at some stage during the naturalisation process. This is to discourage
+abuse of immigration and naturalisation processes.
+The insertion of paragraph (j) provides the Minister with the authority to prescribe by
+regulation specific language requirements that applicants for naturalisation must
+demonstrate, that is, a requisite proficiency in Irish, English, or Irish sign language. In
+preparing these regulations the Department will work in close consultation with the Attorney
+General’s Office.
+The insertion of paragraph (k) provides the Minister with the authority to prescribe by
+regulation a specific standard of understanding of Irish civics and explicitly prove they have a
+foundational knowledge of how Irish society, government, and the Constitution operate. This
+will bring Ireland into closer alignment with other EU Member States. In preparing these
+regulations the Department will work in close consultation with the Attorney General’s Office.
+12
+
+===== PAGE 13 =====
+Head 7: Insert new Section 15F into the Act of 1956
+Provide that:
+The Act of 1956 is amended by the insertion of the following section after section 15E
+“15F (1) The Minister shall, for the purposes of section 15(3)(a), prescribe a minimum level
+of income.
+(2) In making regulations under subsection (1) the Minister shall have regard to—
+(a) annual and quarterly data on earnings and labour costs published by the
+Central Statistics Office,
+(b) the average cost of living in the State having regard to the most recent
+information made available by the Central Statistics Office,
+(c) the economic and social well-being of the State,
+(d) the power of the Executive in relation to the control of entry into, and
+presence in, the State, of non-nationals, and
+(e) such other matters as the Minister considers appropriate.
+(3) The Minister shall, with the consent of the Minister for Social Protection and for
+the purposes of section 15(3)(b), prescribe:
+(a) a payment or class or classes of payments under the Social Welfare
+Consolidation Act 2005;
+(b) a payment or class or classes of payments under schemes administered
+by the Minister for Social Protection.
+(4) The Minister shall, with the consent of the Minister for Housing, Local
+Government and Heritage and for the purposes of section 15(3)(b), prescribe:
+(a) a social housing support provided, facilitated or managed under section 19
+of the Housing (Miscellaneous Provisions) Act 2009 or a class or classes of
+such supports;
+13
+
+===== PAGE 14 =====
+(b) accommodation or lodgings made available, or assistance provided, under
+section 10 of the Housing Act 1988 or a class or classes of such
+accommodation, lodgings or assistance;
+(c) any housing or housing support provided in conjunction with of by the
+Department of Justice, Home Affairs and Migration;
+(d) charitable housing supports.
+(5) In making regulations under subsection (3) or (4) the Minister shall have regard
+to—
+(a) the nature and purpose of a payment, social housing support,
+accommodation, lodgings or assistance including whether any is means-
+tested,
+(b) the extent to which receipt by a person of a payment, social housing
+support, accommodation, lodgings or assistance is indicative of an absence
+of sufficient resources for an applicant and his or her family members not to
+become an unreasonable burden on the State,
+(c) whether, in the case of regulations under subsection (4), the social
+housing support, accommodation, lodgings or assistance, as the case may
+be, is intended primarily as long-term maintenance, subsistence or housing
+support,
+(d) the objectives of promoting the self-sufficiency an applicant and ensuring
+the sustainable use of the resources of the State, and
+(e) such other matters as the Minister considers appropriate.
+14
+
+===== PAGE 15 =====
+Explanatory Note
+The purpose of this head is to introduce an amendment to provide for regulation making
+powers, setting out the elements to be taken into account by the Minister in prescribing the
+minimum level of income required, relevant social welfare payments and relevant housing
+supports for the purposes of the assessment in section 15(1)(f) and section 15(3). The text
+of the amendments set out in the subhead mirror section 212 (to the extent that they are
+relevant in this context) of the International Protection Act 2026.
+Subsection (1) provides that the Minister may prescribe a minimum level of income an
+applicant must be in receipt of in order to qualify for naturalisation.
+Subsection (2) provides that when prescribing a minimum level of income under subsection
+(1), the Minister may consider annual and quarterly data on earnings and labour costs
+published by the Central Statistics Office (CSO); the average cost of living in the State have
+regard to the most up to date information published by the CSO; the economic and social
+well-being of the State; the power of the State to control the entry into and presence of non-
+nationals in the State; and any other matters deemed appropriate by the Minister.
+Subsection (3) outlines that the Minister, with the consent of the Minister for Social
+Protection, may prescribe a payment or class of payments under the Social Welfare
+Consolidation Act 2005 or a payment or class of payments under schemes administered by
+the Minister for Social Protection, for the purposes of section 15(3)(b) which requires that the
+applicant is not, at the time of his or her application for naturalisation, in receipt of a
+prescribed social welfare payment.
+Subsection (4) outlines that the Minister, with the consent of the Minister for Housing, Local
+Government and Heritage, may prescribe a class or classes of social housing support
+provided, facilitated or managed under section 19 of the Housing (Miscellaneous Provisions)
+Act 2009 or assistance, accommodation or lodgings made available under section 10 of the
+Housing Act of 1988, for the for the purposes of section 15(3)(b) which requires that the
+applicant is not, at the time of the application, in receipt of a prescribed housing support.
+Subsection (5) provides that when making regulations under subsections (3) and (4), the
+Minister may have regard to the nature and purpose of such payments or supports; the
+extent to which receipt of such payments or supports indicate that an applicant does not
+15
+
+===== PAGE 16 =====
+have sufficient resources, or his or her family members would be a burden on the State;
+whether the payments or supports are intended as long-term payments or supports; the aim
+of promoting the self-sufficiency of applicants and ensuring the sustainable use of State
+resources; and any other matters the Minister deems appropriate.
+16
+
+===== PAGE 17 =====
+Head 8 – Amendment of Section 16 of the Act of 1956
+Provide that:
+Section 16 of the Act of 1956 is amended by inserting the following text after subsection (1)
+“(1A). The Minister may, in his absolute discretion, waive the condition specified in
+paragraph (h) and paragraph (i) of subsection (1) of section 15 and paragraph (j) and
+paragraph (k) of section 15A in certain circumstances, as prescribed.
+(1B). The condition of good character in sections 15 (1) (b), 15A (1) (b) and 15B (1) (b)
+cannot be waived in any circumstances.”
+Explanatory Note
+The purpose of the insertion of subsection (1A) is to provide absolute clarity that the Minister
+may by regulations waive the requirements of the new section 15(1)(h) and (i) and section
+15A (1) (j) and (k) for particular categories of applicants. This is to ensure that the
+requirement to demonstrate language proficiency do not unduly discriminate against
+vulnerable applicants for naturalisation. In preparing these regulations the Department will
+work in close consultation with the Attorney General’s Office.
+The insertion of subsection (1B) is to ensure that the condition for naturalisation set out in
+section 15(1)(b) requiring applicants for naturalisation to be of good character cannot be
+waived for any applicant. This is to ensure consistency and to reflect the policy position that
+all applicants must be of good character.
+17
+
+===== PAGE 18 =====
+Head 9 - Section 16A of the Act of 1956
+Provide that:
+1. Section 16A of the Act of 1956 is amended:
+(a) in subsection 1 paragraph (c) by removing the ‘or’
+(b) by inserting the following paragraphs after subsection 1 paragraph (d):
+“(e) it is in accordance with a permission given to a person under subsection (8) of
+section 237 of the International Protection Act 2026,
+(f) a period during which a person has been given a permission to reside in the State
+in accordance with subsection (6) of section 60 of the Act of 2015,
+(g) it consists of a period during which a person is provided with a temporary
+permission whilst they are subject to an examination of their personal circumstances
+under the European Communities (Free Movement of Persons) Regulations 2015,
+and is subsequently not granted permission to reside,
+(h) it consists of a period during which a person is provided with a temporary
+permission while seeking a review of a decision by the Minister under regulation 25
+of the European Communities (Free Movement of Persons) Regulations 2015, but
+who is subsequently found not to have an entitlement under these Regulations to
+enter or reside in the State,
+(i) it consists of a period of residence, where in accordance with Regulation 27 of the
+European Communities (Free Movement of Persons) Regulations 2015, the right,
+entitlement or status concerned, as the case may be, is or was claimed on the basis
+of fraud or abuse of rights, and where the Minister revokes, refuses to make, or
+refuses to grant said permission, as the case may be,
+18
+
+===== PAGE 19 =====
+(j) it consists of a period of residence, purported to be in compliance with the
+European Communities (Free Movement of Persons) Regulations 2015, where the
+individual is later found not to have been entitled to exercise such a right,
+(k) on the basis of a permission of a temporary or limited duration as the Minister
+may prescribe.”
+2. In subsection (3) by inserting the following text after “2001”
+“, or the commencement of Irish Nationality and Citizenship (Amendment) Act [2026]”
+Explanatory Note
+Subhead 1 provides for two amendments: (a), and (b); to section 16A of the Act of 1956.
+Subhead 1(a) is a punctuational change to reflect that the list of permission provided for
+under 16A (1) is being extended.
+Subhead 1(b) sets out amendments to section 16A (1) to clarify that any time spent on
+temporary permission is not reckonable residence for the purposes of granting a certificate
+of naturalisation.
+Paragraphs (e) and (f) are to move time spent in the State on the basis of Temporary
+Protection under the Temporary Protection Directive 2001/55/EC from being reckonable
+residence for naturalisation purposes.
+Paragraphs (g), (h), (i) and (j) are to remove from reckonable residence any time spent
+either as an applicant for EU treaty rights where the individual in question was subsequently
+found not to be entitled to such rights, or time spent while awaiting the outcome of a review
+of a Ministerial decision refusing or revoking such an application and where the Minister’s
+decision is subsequently upheld, or time spent where the entitlement claimed is found to
+have been claimed on a fraudulent basis.
+In subhead 1(b) the insertion of paragraph (l) is to provide the flexibility for the Minister to
+reflect the need to add any additional temporary or limited duration permission as may be
+appropriate, this is to reflect the changing and ever evolving context of immigration
+permission more generally and to ensure that the law can fully reflect the policy decision that
+19
+
+===== PAGE 20 =====
+time spent in the State on permissions that are inherently transitory, temporary or not
+intended to be durable in nature are not reckonable for the purpose of naturalisation.
+Subhead 2 provides that the changes to reckonable residency made in these amendments
+do not apply to applicants that have already submitted an application for naturalisation prior
+to the commencement of this legislation. The wording here mirrors that used in the Irish
+Nationality and Citizenship Act 1956 section 6A(2)(a) to restrict the application of the
+changes introduced by the Irish Nationality and Citizenship Act 2004.
+20
+
+===== PAGE 21 =====
+Head 10 - Section 19 of the of the Act of 1956.
+Provide that:
+Section 19 of the Act of 1956 is amended
+1. In subsection 1 by
+(a) inserting an “or” at the end of subsection (e)
+(b) Inserting the following subsection after subsection (e)
+“(f) that it is in the interests of public policy, public order or national security.”
+2. In Section (1P) by the removal of the words
+“in consultation with the chairperson of the Committee of Inquiry and”
+Explanatory notes
+Subhead 1(a) is punctuational change, reflecting the extension of the list in section in
+Section 1.
+Subhead 1(b) includes an additional distinct ground to provide the Minister with the explicit
+power to revoke citizenship specifically because someone is a threat to national security.
+Having regard to the backdrop of a changed EU and international security landscape and a
+more complex threat environment we consider that broad wording better lends itself to the
+variety of circumstances (albeit relatively rare) that may arise for consideration by the
+Minister.
+Subhead 2 establishes an enduring regulatory framework so that new regulations are not
+required each time this process is utilised.
+21
+
+===== PAGE 22 =====
+Schedule 1: Offences and contraventions by an applicant which would preclude the
+issue of a certificate of [grant of] citizenship
+a. An offence under Section 29A of the Act of 1956,
+b. An offence under sections 3, 4, or 8 of the Immigration Act 1999,
+c. An offence for a contravention of sections 4(2), 4(5)(b), 4(5)(c), 4(5)(d), 4(6), 4(8), 6,
+7, 8, 9, 10, 11 or 12 of the Immigration Act 2004,
+d. An offence under sections 16, 17, or 26 of the International Protection Act 2015,
+e. An offence under Regulation 30 of the European Communities (Free Movement of
+Persons) Regulations 2015,
+f. An offence under Regulation 21 of the European Union (Withdrawal Agreement)
+(Citizens’ Rights) Regulations 2020, or
+g. An offence under section 19, 32(1), 32(6), 69(6), 96, 120, 134, 155(12), 192, 209,
+237(17) 275, 276, or 278 of the International Protection Act 2026.
+22

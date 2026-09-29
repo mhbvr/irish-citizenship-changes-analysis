@@ -1,0 +1,229 @@
+{
+  "scheme": {
+    "title": "Department of Justice · General Scheme, 21 September 2026",
+    "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/publications/general-scheme-of-the-irish-nationality-and-citizenship-amendment-bill-2026/",
+    "note": "Heads 4–10. Read from the official text archived in the supplied explainer; live publisher request returned HTTP 403. This is a legislative proposal, not enacted law.",
+    "archive": "research/general-scheme-2026.txt"
+  },
+  "law": {
+    "title": "Law Reform Commission · Irish Nationality and Citizenship Act 1956, revised",
+    "url": "https://revisedacts.lawreform.ie/eli/1956/act/26/revised/en/html",
+    "note": "Sections 6A–6B, 15, 15A, 15B, 16, 16A and 19. Current-law baseline; consulted alongside the supplied official extracts."
+  },
+  "routes": {
+    "title": "Oireachtas · PQ 483, 22 January 2026",
+    "url": "https://www.oireachtas.ie/en/debates/question/2026-01-22/483/",
+    "note": "Tables 1–2: certificates issued, not applications or arrivals. The answer explicitly says prior immigration permissions are not available as a statistical breakdown. Live page returned HTTP 403; cached official answer and original attachment inspected.",
+    "archive": "research/parliamentary-answers.json"
+  },
+  "routefile": {
+    "title": "Oireachtas · Original certificate tables (Word document)",
+    "url": "https://data.oireachtas.ie/ie/oireachtas/debates/questions/supportingDocumentation/2026-01-22_pq-482-486a-22-01-2026_en.docx",
+    "note": "Original attachment to PQs 482–483. Table 2 records certificates by application type. ‘S15 residency’ is the Department’s label for spouses and civil partners of Irish citizens; ‘Granted International Protection’ covers people with refugee status or subsidiary protection.",
+    "archive": "research/certificates-2016-2025.docx"
+  },
+  "nationalities": {
+    "title": "Oireachtas · Certificates by nationality, 2016–2025 (Excel)",
+    "url": "https://data.oireachtas.ie/ie/oireachtas/debates/questions/supportingDocumentation/2026-01-22_pq-482-483b-22-01-2026_en.xlsx",
+    "note": "Original attachment to PQs 482–483: certificates of naturalisation issued each year by nationality. Yearly totals match the route table except where the Department suppressed small values. Certificates issued, not applications or arrivals.",
+    "archive": "research/certificates-by-nationality-2016-2025.xlsx"
+  },
+  "applications": {
+    "title": "Oireachtas · PQ 2397, 7 September 2026",
+    "url": "https://www.oireachtas.ie/en/debates/question/2026-09-07/2397/",
+    "note": "Applications 2021–2026, backlog at 31 August 2026, and absence of a statutory processing deadline. Cached official answer inspected; live publisher request returned HTTP 403.",
+    "archive": "research/parliamentary-answers.json"
+  },
+  "processing": {
+    "title": "Oireachtas · PQ 277, 17 September 2026",
+    "url": "https://www.oireachtas.ie/en/debates/question/2026-09-17/277/",
+    "note": "Median processing times 2021–2025. Eight months in 2024 and 2025 is neither a minimum nor a guarantee. Cached official answer inspected; live publisher request returned HTTP 403.",
+    "archive": "research/parliamentary-answers.json"
+  },
+  "permits": {
+    "title": "Department of Enterprise · Employment permit statistics",
+    "url": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/statistics/",
+    "note": "Annual counts from the supplied parsed departmental spreadsheets. Include renewals; not unique arrivals or future citizenship applicants."
+  },
+  "permitnationality": {
+    "title": "Department of Enterprise · Employment permits by nationality, 2015–2026",
+    "url": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/statistics/",
+    "note": "Annual ‘permits by nationality’ spreadsheets. New permits exclude renewals, so they approximate first-time permits. Permit holders and later citizens cannot be linked person by person; the comparison shows matching nationalities, not the same individuals. EU/EEA and UK citizens need no permit."
+  },
+  "jobs": {
+    "title": "CSO · Labour Force Survey, employment by citizenship (QLF59)",
+    "url": "https://data.cso.ie/table/QLF59",
+    "note": "Q2 2021 to Q2 2026: employment rose by 457,100; non-Irish citizens accounted for 215,900 (47%). Non-Irish share of employment 16.6% (2021) and 21.5% (2026). Naturalised migrants are counted as Irish citizens, so these figures understate migrants’ share."
+  },
+  "sectors": {
+    "title": "Oireachtas · Employment permits by type and sector (Excel)",
+    "url": "https://data.oireachtas.ie/ie/oireachtas/debates/questions/supportingDocumentation/2025-05-20_pq381-20-05-25_en.xlsx",
+    "note": "2024 sector totals calculated across permit types in the supplied parsed attachment. Total 39,398 differs by eight from the departmental annual series (39,390); use this attachment's denominator throughout."
+  },
+  "occupations": {
+    "title": "Oireachtas · PQ 56, 26 March 2025",
+    "url": "https://www.oireachtas.ie/en/debates/question/2025-03-26/56/",
+    "note": "2024 Critical Skills permits by occupation, from the supplied parsed supporting document: nurses 5,031; programmers and software development professionals 2,247."
+  },
+  "controls": {
+    "title": "Department of Enterprise · Occupations lists and reviews",
+    "url": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/economic-migration-policy/occupations-lists-and-reviews/",
+    "note": "Official explanation of how eligible occupations are selected and reviewed; checked through live web research."
+  },
+  "controlsexample": {
+    "title": "Department of Enterprise · Permit changes for homes, health and transport, 28 May 2026",
+    "url": "https://enterprise.gov.ie/en/news-and-events/department-news/2026/may/20260528.html",
+    "note": "Concrete example of changing occupation eligibility and quotas to respond to labour shortages; checked through live web research."
+  },
+  "earnings": {
+    "title": "CSO · Annual earnings 2024, Table 7.1",
+    "url": "https://www.cso.ie/en/releasesandpublications/ep/p-eaads/earningsanalysisusingadministrativedatasources2024/annualearnings/",
+    "note": "Mean €56,356; median €44,816. Employments active for fewer than 50 weeks excluded. Chosen as a matched-year statistical illustration, not a proposed legal threshold; checked live."
+  },
+  "education": {
+    "title": "CSO · Educational Attainment 2024, Table 3.4",
+    "url": "https://www.cso.ie/en/releasesandpublications/ep/p-eda/educationalattainmentthematicreport2024/profileofagesexnationalityandregion/",
+    "note": "Third-level attainment among 25–64-year-olds, Q2 2024: non-Irish 67%, Irish 53%. Population evidence, not citizenship-applicant evidence; checked live."
+  },
+  "integration": {
+    "title": "ESRI · Monitoring Report on Integration 2024, Table A / Figure 2.1",
+    "url": "https://www.esri.ie/system/files/publications/JR11.pdf#page=11",
+    "note": "Government-funded primary analysis of official CSO Labour Force Survey microdata. Q1 2024, ages 15–64: foreign-born employment 76.8%, unemployment 5.8%; Irish-born 72.7%, 3.5%. The employment denominator is working-age population; unemployment uses the labour force. PDF inspected live. Table A also gives the citizenship indicators: annual acquisition rate for non-EEA nationals 4.0%; 29.7% of non-EEA migrants who arrived since 2005 had acquired Irish citizenship."
+  },
+  "carers": {
+    "title": "CSO · Census 2022, Profile 4: Carers",
+    "url": "https://www.cso.ie/en/releasesandpublications/ep/p-cpp4/censusofpopulation2022profile4-disabilityhealthandcarers/carers/",
+    "note": "299,128 unpaid carers; 61% female. All residents, not applicant-specific; checked live."
+  },
+  "strategy": {
+    "title": "Government · Global Citizens 2030 talent and innovation strategy",
+    "url": "https://www.gov.ie/en/department-of-further-and-higher-education-research-innovation-and-science/publications/global-citizens-2030-irelands-talent-and-innovation-strategy/",
+    "note": "Strategy launched 15 January 2024. Innovate for Ireland seeks to attract high-calibre PhD students. Policy intent, not a measured impact of citizenship rules; checked through live web research."
+  },
+  "stamps": {
+    "title": "Immigration Service Delivery · Immigration permission stamps",
+    "url": "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/",
+    "note": "Current distinctions between Stamp 2 study permission and reckonable permissions, including Stamp 1G. Eligibility depends on the actual permission; checked through live web research."
+  },
+  "revocations": {
+    "title": "Oireachtas · PQ 883, 16 September 2026",
+    "url": "https://www.oireachtas.ie/en/debates/question/2026-09-16/883/",
+    "note": "Eight revocations over the preceding ten years, two since 7 April 2025; seven fraud-related and one under loyalty/residence grounds. Also confirms reviews of terrorism and serious crime. Cached official answer inspected.",
+    "archive": "research/parliamentary-answers.json"
+  },
+  "revocationlaw": {
+    "title": "Law Reform Commission · Section 19, revised",
+    "url": "https://revisedacts.lawreform.ie/eli/1956/act/26/section/19/revised/en/html",
+    "note": "Existing substantive grounds and inquiry safeguards; read alongside supplied current-law extract."
+  },
+  "ihrec": {
+    "title": "IHREC · Revocation changes need proper scrutiny, 16 July 2024",
+    "url": "https://www.ihrec.ie/commission-urges-minister-to-delay-plans-to-amend-legislation-to-revoke-irish-citizenship-without-proper-scrutiny/",
+    "note": "Official commission statement about the 2024 amendments, not an opinion on the 2026 Scheme. Identifies concerns about initiation thresholds, inquiry independence and restrictions concerning national-security material. Replaces the earlier citation relying on a search-index extract."
+  },
+  "nmbi": {
+    "title": "NMBI · State of the Register 2025, Table 2 (p. 10)",
+    "url": "https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-The-Register-2025.pdf?ext=.pdf#page=12",
+    "note": "Snapshot at 1 June 2025. Counts nurses and midwives by country of qualification, not citizenship. The practising category includes registrants abroad and assumptions about new registrants; it is not an HSE headcount. Non-EU includes the UK. Original PDF downloaded and inspected.",
+    "archive": "research/nmbi-register-2025.pdf"
+  },
+  "newnurses": {
+    "title": "NMBI · State of the Register 2024, Table 5",
+    "url": "https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-the-Register-2024.pdf?ext=.pdf",
+    "note": "First-time registrants, 1 June 2023 to 31 May 2024: 5,426 qualified outside the EU, 1,569 in Ireland, 125 in other EU countries (7,120 in total). Up from 3,021 non-EU registrants in 2022.",
+    "archive": "research/nmbi-register-2024.pdf"
+  },
+  "doctors": {
+    "title": "Medical Council · Medical Workforce Intelligence Report 2024",
+    "url": "https://www.medicalcouncil.ie/news-and-publications/reports/medical-workforce-intelligence-report-2024.pdf",
+    "note": "Clinically active doctors by country of basic medical qualification: Ireland 58.3%, EU/UK 13.8%, elsewhere 27.8% (up from 23.3% in 2022). Qualification location, not nationality.",
+    "archive": "research/medical-council-workforce-2024.pdf"
+  },
+  "fiscal": {
+    "title": "ESRI · Literature review on the fiscal impacts of immigration, June 2026",
+    "url": "https://www.esri.ie/system/files/publications/SUSTAT141.pdf",
+    "note": "Chapter 3, pp. 22 and 29; Chapter 4. Employment comparison reproduces Eurostat 2024, ages 20–64, by citizenship. Fiscal estimates are JRC 2020 results for 2015–2019 reported in the review: income taxes and social insurance minus annual benefits per person. They are not a comprehensive public-service cost balance or a 2026 forecast. OECD (2021) estimates for Ireland, averaged over 2006–2018, are reported on printed pages 20–22: individual taxes less benefits and services, then adding congestible and pure public goods, and the fiscal ratio.",
+    "archive": "research/esri-fiscal-2026.pdf"
+  },
+  "fiscalsummary": {
+    "title": "ESRI · Fiscal impact and welfare receipt, 10 June 2026",
+    "url": "https://www.esri.ie/news/the-fiscal-impact-of-migration-and-welfare-receipt-among-immigrants",
+    "note": "Publisher’s summary of two reports funded by the Department of Justice. Direct quotation on the Ireland page is 17 words. Conclusions describe migrant populations, not individual citizenship applicants."
+  },
+  "welfare": {
+    "title": "ESRI · Social transfers utilisation among migrants and Irish-born, Table 4.1",
+    "url": "https://www.esri.ie/system/files/publications/RS229.pdf#page=22",
+    "note": "June 2026, Table 4.1 and discussion, printed p. 11. CSO SILC, ages 15–65. In 2024 family-payment receipt was 58% for immigrants and 47% for Irish-born people. Includes universal Child Benefit. Main analysis concerns private households; it is not a measure of asylum-centre residents.",
+    "archive": "research/esri-welfare-2026.pdf"
+  },
+  "family": {
+    "title": "Immigration Service Delivery · Joining-family requirements",
+    "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/frequently-asked-questions-for-joining-family/",
+    "note": "Official rules on eligible sponsors, qualifying family relationships, financial requirements and permission. Used to establish that family residence is regulated, not to calculate applicant proportions."
+  },
+  "permitlaw": {
+    "title": "Irish Statute Book · Employment Permits Act 2024",
+    "url": "https://www.irishstatutebook.ie/eli/2024/act/17/enacted/en/print",
+    "note": "Statutory basis for employment permits and exemptions. Employment permission does not itself substitute for immigration permission."
+  },
+  "registration": {
+    "title": "Law Reform Commission · Immigration Act 2004, section 9",
+    "url": "https://revisedacts.lawreform.ie/eli/2004/act/1/section/9/revised/en/html",
+    "note": "Sections 9(2)(b)–(d) and 9(8): updating registration information; address change within 48 hours if not previously notified; absence from residence exceeding one month; offence provision. Duties apply to persons within the section, subject to statutory exclusions."
+  },
+  "documents": {
+    "title": "Law Reform Commission · Immigration Act 2004, section 12",
+    "url": "https://revisedacts.lawreform.ie/eli/2004/act/1/section/12/revised/en/html",
+    "note": "Production on a lawful demand for the purpose of establishing compliance with section 5. Section 12(2)(b) provides a reasonable-cause defence. The original provision was replaced in 2011; the revised text is used here."
+  },
+  "hussain": {
+    "title": "Courts Service · Hussain v Minister for Justice [2011] IEHC 171",
+    "url": "https://www.courts.ie/acc/alfresco/44af5cc1-4aa1-44fe-bbed-2542390b4596/2011_IEHC_171_1.pdf/pdf#page=3",
+    "note": "Hogan J., 13 April 2011, paragraphs 15 and 22–26. Reasonable civic standards and fair procedures; serious wrongdoing can be considered even without a conviction. The phrase “good character is not perfection” is a summary, not a quotation.",
+    "archive": "research/hussain-2011.pdf"
+  },
+  "policyanswer": {
+    "title": "Oireachtas · PQ 894, 16 September 2026",
+    "url": "https://www.oireachtas.ie/en/debates/question/2026-09-16/894/",
+    "note": "Grouped answer confirms test standards, methods, exemptions, civics content and self-sufficiency details were not settled. Explains the intended immediate application to future applicants; the later Scheme uses commencement orders, so enactment and commencement are distinguished. Read from the cached official parliamentary answer.",
+    "archive": "research/parliamentary-answers.json"
+  },
+  "protectionlaw": {
+    "title": "International Protection Act 2015",
+    "url": "https://www.irishstatutebook.ie/eli/2015/act/66/enacted/en/print",
+    "note": "Statutory framework for international-protection applications and decisions. Publisher access returned HTTP 403 during this review; cited for the framework, not a claim that later amendments do not apply."
+  },
+  "eprs": {
+    "title": "European Parliamentary Research Service · Acquisition and loss of citizenship in EU Member States, 2025, Figure 2",
+    "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769502/EPRS_BRI(2025)769502_EN.pdf",
+    "note": "Figure 2, page 4: minimum residence for ordinary naturalisation by country (GLOBALCIT 2022 with the author’s 2025 updates; EMN 2024). The chart is an image; values were read from it: 10 years AT, IT, LT, SI, ES; 9 DK; 8 HR, CY, EE, FI, HU, RO, SK; 7 EL; 5 BE, BG, CZ, FR, DE, IE, LV, LU, MT, NL, PT, SE; 3 PL; EU average 6.9. The text states the range of 3 to 10 years. Countries count different kinds of residence, so equal numbers of years are not always equally demanding. Updated in September 2026 for Sweden (8 years from 6 June 2026) and Portugal (10 years for non-EU nationals from 19 May 2026), and recalculated to include the time needed to obtain permanent residence where a country requires it; see ‘EU residence requirements’ on the sources page. The ‘about eight years’ average (218 ÷ 27 = 8.1) is the author’s calculation.",
+    "archive": "research/eprs-citizenship-eu-2025.pdf"
+  },
+  "sweden": {
+    "title": "Swedish Migration Agency · New rules for Swedish citizenship from 6 June 2026",
+    "url": "https://www.migrationsverket.se/nyheter/news-archive/2026-05-06-new-rules-for-swedish-citizenship-from-6-june-2026.html",
+    "note": "“From 6 June, you must as a general rule have lived in Sweden for at least eight years (previously five years).” The Riksdag approved the change on 29 April 2026. Checked live on 28 September 2026. The Dutch requirement was also rechecked on the IND website: still at least five consecutive years."
+  },
+  "portugal": {
+    "title": "Diário da República · Organic Law 1/2026 amending the Nationality Law, 18 May 2026",
+    "url": "https://files.diariodarepublica.pt/1s/2026/05/09500/0000200020.pdf",
+    "note": "Article 6(1)(b): legal residence of “at least seven years” for nationals of Portuguese-speaking countries and EU citizens, “or 10 years, in the case of nationals of other countries”. In force the day after publication (19 May 2026); applications already filed continue under the previous rules. Official gazette PDF read on 28 September 2026.",
+    "archive": "research/portugal-nationality-law-2026.pdf"
+  },
+  "pressrelease": {
+    "title": "Department of Justice · Press release on priority drafting of the Bill, September 2026",
+    "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/press-releases/government-approval-secured-for-the-priority-drafting-of-the-irish-nationality-and-citizenship-amendment-bill-2026/",
+    "note": "Notes to Editors: “Several countries impose residence periods of 7 to 10 years, including Austria, Italy, Lithuania, Slovenia, Spain and Switzerland.” Quotation taken from research notes made at publication; the live page refused automated access (HTTP 403) when rechecked on 28 September 2026."
+  },
+  "schengen": {
+    "title": "Citizens Information · The Schengen Area",
+    "url": "https://www.citizensinformation.ie/en/government-in-ireland/european-government/european-union/schengen-area/",
+    "note": "“Ireland is not part of the Schengen Area.” “If you are a non-EEA citizen and you currently live in Ireland, you may need a Schengen visa to travel to the Schengen Area, even if you have a valid Irish Residence Permit (IRP).” Checked live on 28 September 2026."
+  },
+  "visastrategy": {
+    "title": "European Commission · EU Visa Strategy, COM(2026) 43, 29 January 2026",
+    "url": "https://home-affairs.ec.europa.eu/document/download/f873d151-f079-424b-9575-bece4113447c_en?filename=EU+Visa+Policy+Strategy.pdf",
+    "note": "Section 3, printed page 13: funding should strengthen processing capacity “in locations where applicants face long waiting times for Schengen visa appointments”. Page 10 also records concerns from universities and employers about “difficulties in booking appointments” for long-stay visas.",
+    "archive": "research/eu-visa-strategy-2026.pdf"
+  }
+}
