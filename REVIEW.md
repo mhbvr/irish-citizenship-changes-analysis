@@ -47,9 +47,10 @@ Department’s own definition would settle it.
 
 Several headline figures are broader than the affected group:
 
-- **47% of new jobs** were filled by non-Irish citizens. That includes EU and UK
+- **43%–65% of the net rise in employment since 2021** (47% on a Q2 2021 base) was among
+  non-Irish citizens. That includes EU and UK
   citizens, who need no permit and are less affected by most of the Scheme.
-- **41.6% of doctors qualified outside Ireland** includes 13.8% who qualified in the
+- **43.4% of doctors qualified outside Ireland** includes 13.9% who qualified in the
   EU or UK.
 - **Nurses and midwives** are counted by where they trained, not by nationality; some
   are Irish citizens who trained abroad, and some are already naturalised.
