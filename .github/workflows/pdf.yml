@@ -1,0 +1,45 @@
+name: Build PDF
+
+# Rebuilds citizenship-analysis.pdf whenever the pages change on main,
+# and commits it back if the result differs.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "*.html"
+      - "assets/**"
+      - "scripts/build-pdf.mjs"
+      - ".github/workflows/pdf.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install Playwright and Chromium
+        run: |
+          npm install --no-save playwright@1
+          npx playwright install --with-deps chromium
+      - name: Build PDF
+        run: node scripts/build-pdf.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: citizenship-analysis-pdf
+          path: citizenship-analysis.pdf
+      - name: Commit PDF if changed
+        run: |
+          if git diff --quiet -- citizenship-analysis.pdf && git ls-files --error-unmatch citizenship-analysis.pdf >/dev/null 2>&1; then
+            echo "PDF unchanged"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add citizenship-analysis.pdf
+          git commit -m "Rebuild PDF"
+          git push
