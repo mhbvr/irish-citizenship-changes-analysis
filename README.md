@@ -1,6 +1,6 @@
 # Analysis of the proposed amendment to the citizenship law
 
-**Version 0.15 · 26 October 2026, 19:10 GMT**
+**Version 0.16 · 26 October 2026, 19:40 GMT**
 
 An individual view of the September 2026 General Scheme of the Irish Nationality and
 Citizenship (Amendment) Bill, as a static website: short topic pages, shared navigation,
@@ -40,7 +40,7 @@ search and replace it in those places. Configure the host to redirect `/position
 | `care.html`, `certainty.html`, `children.html`, `increase.html`, `ireland.html`, `migration.html`, `research.html`, `workers.html` | Old addresses that redirect to where their content now lives |
 | `assets/` | Stylesheet and favicon |
 | `data/` | Official-data extracts (CSV), transcribed evidence with page/table locators, `calculations.json`, `sources.json` |
-| `research/` | Archived copies of official documents: the Scheme, parliamentary answers, certificate tables, NMBI, Medical Council and ESRI reports, the European Parliament citizenship brief, the EU Visa Strategy, the Hussain judgment, IHREC's October 2026 submission on the Scheme |
+| `research/` | Archived copies of official documents: the Scheme, parliamentary answers, certificate tables, NMBI, Medical Council and ESRI reports, the European Parliament citizenship brief, the EU Visa Strategy, the Hussain judgment, the October 2026 submissions on the Scheme by IHREC and the Bar of Ireland |
 | `sitemap.xml` | List of pages for search engines |
 | `checksums.txt` | SHA-256 of every file in `data/` and `research/` |
 | `REVIEW.md` | Critical review of the text (29 September 2026); not part of the website |
@@ -94,8 +94,8 @@ remove or reorder a topic page, update the `pages` list at the top of the script
 
 ## Version
 
-The version appears in the sidebar and footer of every page (“Version 0.15 · 26 October
-2026, 19:10 GMT”). When you publish a new version, search and replace that text in all pages and at
+The version appears in the sidebar and footer of every page (“Version 0.16 · 26 October
+2026, 19:40 GMT”). When you publish a new version, search and replace that text in all pages and at
 the top of this file.
 
 ## Checking evidence copies
@@ -124,7 +124,10 @@ permit and immigration guidance, NMBI's 2024 and 2025 registers, the Medical Cou
 monitoring report, and the official Hussain judgment on good character. On 26 October 2026
 the good-character and revocation material was extended using IHREC's October 2026
 pre-legislative scrutiny submission and the revised text of sections 15B and 16 of the
-1956 Act.
+1956 Act. The Bar of Ireland's October 2026 submission was added the same day for
+Northern Ireland, de facto partners, the offence condition, good character and the burden
+of proof in revocation; its account of sections 6B(5), 15 and 15A was checked against the
+revised Act.
 
 The sources page records important limits, including blocked live publisher requests;
 archived official answers were inspected when live access failed. Source paths inside
@@ -157,3 +160,7 @@ Key distinctions:
 - IHREC's points on revocation are attributed to the Commission. Where its quotation of the
   Head 10 explanatory note differs from the archived Scheme text, the site quotes the
   archived text.
+- The Bar of Ireland's statement that more than half of EU member states require five
+  years is not used: the site's own country check finds seven of 27. The burden-of-proof
+  point is the Bar's argument about practical effect; the Scheme does not change the
+  burden in its wording.
