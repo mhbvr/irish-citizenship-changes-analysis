@@ -1,6 +1,6 @@
 # The proposed citizenship changes: our position in brief
 
-**Version 0.19 · 26 October 2026** · A summary of the
+**Version 0.20 · 26 October 2026** · A summary of the
 [full analysis](https://mrphs.cc/position/) of the General Scheme of the Irish Nationality
 and Citizenship (Amendment) Bill 2026, published on 21 September 2026
 ([Scheme, PDF](https://assets.gov.ie/static/documents/cadca21c/General_Scheme_of_the_Irish_Nationality_and_Citizenship_Amendment_Bill_2026.pdf)).
@@ -119,21 +119,6 @@ same partner could qualify for British citizenship. This point comes from the Ba
 Ireland's submission.
 → [Chapter 2, Northern Ireland](https://mrphs.cc/position/residence.html#northern-ireland) ·
 [Chapter 3](https://mrphs.cc/position/tests.html#northern-ireland)
-
-## What a sound proposal would need
-
-- **Evidence:** an Irish reason for eight years, and an estimate of who the income and
-  test conditions would exclude, and of the effect on recruitment and retention in
-  health, care and technology.
-- **Transition:** protection for people already building up residence, and a clear
-  start date.
-- **Primary legislation:** clear criteria in the Bill itself for income, supports and
-  tests, with regulations approved by the Oireachtas.
-- **Proportion:** a time limit and a seriousness threshold for the offence bar, and a
-  waiver of good character for exceptional cases, especially for children.
-- **Revocation:** defined grounds, evidence of a real legal gap, and safeguards that
-  meet the Damache standard.
-- **All-island rules:** explicit rules for applicants and families in Northern Ireland.
 
 ## Key figures
 
