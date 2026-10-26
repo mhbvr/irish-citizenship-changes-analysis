@@ -1,6 +1,6 @@
 # Analysis of the proposed amendment to the citizenship law
 
-**Version 0.17 · 26 October 2026, 19:58 GMT**
+**Version 0.18 · 26 October 2026, 20:10 GMT**
 
 An individual view of the September 2026 General Scheme of the Irish Nationality and
 Citizenship (Amendment) Bill, as a static website: short topic pages, shared navigation,
@@ -39,6 +39,7 @@ again after each new version.
 | `residence.html` | 2. Five years or eight: the European comparison, the missing rationale, uncertainty for people already here, and students and researchers |
 | `tests.html`, `income.html`, `proportionality.html`, `revocation.html`, `conclusion.html` | Chapters 3–7 |
 | `sources.html` | Source register, data definitions and calculations |
+| `summary.md` | Two-to-three-page summary of the position, with links to the chapters and key sources; not part of the website |
 | `care.html`, `certainty.html`, `children.html`, `increase.html`, `ireland.html`, `migration.html`, `research.html`, `workers.html` | Old addresses that redirect to where their content now lives |
 | `assets/` | Stylesheet and favicon |
 | `data/` | Official-data extracts (CSV), transcribed evidence with page/table locators, `calculations.json`, `sources.json` |
@@ -96,8 +97,8 @@ remove or reorder a topic page, update the `pages` list at the top of the script
 
 ## Version
 
-The version appears in the sidebar and footer of every page (“Version 0.17 · 26 October
-2026, 19:58 GMT”). When you publish a new version, search and replace that text in all pages and at
+The version appears in the sidebar and footer of every page (“Version 0.18 · 26 October
+2026, 20:10 GMT”). When you publish a new version, search and replace that text in all pages and at
 the top of this file.
 
 ## Checking evidence copies
