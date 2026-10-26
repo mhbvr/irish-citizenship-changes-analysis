@@ -1,6 +1,6 @@
 # The proposed citizenship changes: our position in brief
 
-**Version 0.18 · 26 October 2026** · A summary of the
+**Version 0.19 · 26 October 2026** · A summary of the
 [full analysis](https://mrphs.cc/position/) of the General Scheme of the Irish Nationality
 and Citizenship (Amendment) Bill 2026, published on 21 September 2026
 ([Scheme, PDF](https://assets.gov.ie/static/documents/cadca21c/General_Scheme_of_the_Irish_Nationality_and_Citizenship_Amendment_Bill_2026.pdf)).
@@ -8,8 +8,9 @@ The analysis is also available [as a PDF](citizenship-analysis.pdf).
 
 ## Position
 
-The Scheme would make citizenship slower and much less predictable for the people Ireland
-has deliberately recruited: nurses, doctors, carers, engineers and researchers. It does
+The Scheme would make the citizenship process slower and much less predictable for the
+people Ireland has deliberately recruited: nurses, doctors, carers, engineers and
+researchers. It does
 this without saying what problem it solves. Most of what would decide eligibility is
 left to future regulations. It has no transition rule and no start date. In our view it
 should not go ahead until its case is made with Irish evidence and for Irish needs.

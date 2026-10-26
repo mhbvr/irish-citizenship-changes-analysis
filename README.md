@@ -1,6 +1,6 @@
 # Analysis of the proposed amendment to the citizenship law
 
-**Version 0.18 · 26 October 2026, 20:10 GMT**
+**Version 0.19 · 26 October 2026, 20:12 GMT**
 
 An individual view of the September 2026 General Scheme of the Irish Nationality and
 Citizenship (Amendment) Bill, as a static website: short topic pages, shared navigation,
@@ -97,8 +97,8 @@ remove or reorder a topic page, update the `pages` list at the top of the script
 
 ## Version
 
-The version appears in the sidebar and footer of every page (“Version 0.18 · 26 October
-2026, 20:10 GMT”). When you publish a new version, search and replace that text in all pages and at
+The version appears in the sidebar and footer of every page (“Version 0.19 · 26 October
+2026, 20:12 GMT”). When you publish a new version, search and replace that text in all pages and at
 the top of this file.
 
 ## Checking evidence copies
