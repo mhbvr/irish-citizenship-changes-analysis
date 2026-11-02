@@ -1,14 +1,15 @@
 name: Build PDF
 
-# Rebuilds citizenship-analysis.pdf whenever the pages change on main,
-# and commits it back if the result differs.
+# Rebuilds citizenship-analysis.pdf (the submission document) whenever the
+# pages or the summary change on main, and commits it back if the result differs.
+# The build is reproducible: the same sources give the same file.
 on:
   push:
     branches: [main]
     paths:
       - "*.html"
-      - "assets/**"
-      - "scripts/build-pdf.mjs"
+      - "summary.md"
+      - "scripts/build_pdf.py"
       - ".github/workflows/pdf.yml"
   workflow_dispatch:
 
@@ -20,15 +21,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-python@v5
         with:
-          node-version: 22
-      - name: Install Playwright and Chromium
+          python-version: "3.12"
+      - name: Install the Carlito font and Python packages
         run: |
-          npm install --no-save playwright@1
-          npx playwright install --with-deps chromium
+          sudo apt-get update
+          sudo apt-get install -y fonts-crosextra-carlito
+          pip install reportlab==5.0.1 beautifulsoup4==4.15.0
       - name: Build PDF
-        run: node scripts/build-pdf.mjs
+        run: python3 scripts/build_pdf.py
       - uses: actions/upload-artifact@v4
         with:
           name: citizenship-analysis-pdf
