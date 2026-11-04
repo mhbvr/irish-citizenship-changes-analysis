@@ -1,6 +1,6 @@
 # The proposed citizenship changes: our position in brief
 
-**Version 0.22 · 4 November 2026** · A summary of the
+**Version 0.23 · 4 November 2026** · A summary of the
 [full analysis](https://mrphs.cc/position/) of the General Scheme of the Irish Nationality
 and Citizenship (Amendment) Bill 2026, published on 21 September 2026
 ([Scheme, PDF](https://assets.gov.ie/static/documents/cadca21c/General_Scheme_of_the_Irish_Nationality_and_Citizenship_Amendment_Bill_2026.pdf)).
@@ -8,70 +8,62 @@ The analysis is also available [as a PDF](citizenship-analysis.pdf).
 
 ## Position
 
+The Scheme gives no data-based analysis of why these changes are needed or how they would
+benefit Ireland. The evidence shows who they would affect: the people Ireland most needs.
+Most people who become Irish citizens came here to work, many of them on Critical Skills
+and General employment permits, in health and social care, IT and other skilled jobs that
+the State itself chose to fill from abroad.
+
+Naturalisation law is not a tool for managing migration. The State already decides
+directly who can come to work and who can join them, through employment permits and
+family rules, and asylum is decided separately under international protection law.
+Naturalisation decides who becomes an Irish citizen and a member of the Irish nation. It
+should reflect the values of the Irish people, not serve as another lever on migration.
+
+Many of the conditions could fall much harder on some groups than on others: the income
+test on carers, disabled people and mothers on leave or working part-time; the tests on
+people far from a test centre, including spouses in Northern Ireland; the permanent
+offence bar on residents with an old, minor breach; and the end of the good-character
+waiver on children aged 14 to 17. Much depends on the Minister, who would set by
+regulation the income figure, the supports that count against an applicant, the language
+standard, the civics syllabus, pass marks, exemptions and further excluded permissions,
+having regard to "such other matters as the Minister considers appropriate". Rules made
+this way could treat some groups less favourably than others, and the Oireachtas would
+not see them before the Bill is passed.
+
+Head 10 adds public policy, public order and national security as grounds for revoking
+citizenship without defining any of them, and removes the duty to consult the chair of
+the Committee of Inquiry on its procedures. With the existing power to withhold reasons
+on security grounds, the Minister could revoke citizenship without the law saying what
+these grounds mean, and the person might not know the case against them. No case has been
+shown that the existing grounds could not deal with: eight people lost citizenship in ten
+years, seven for fraud.
+
+Language and civics tests are reasonable in themselves, but the Scheme does not consider
+the cost of providing them. About 100,000 sittings a year would need 7 to 25 test centres,
+staff, courses and preparation material, so that people everywhere on the island,
+including in Northern Ireland, have an equal chance to pass. There is no cost estimate,
+and the standard, method, exemptions and content are left to regulations.
+
+Schedule 1 mixes offences of very different kinds, from identity fraud to notifying a new
+address within 48 hours. Any of them would bar citizenship with no time limit and no
+regard to seriousness or age, while offences outside it, such as ordinary theft, are
+weighed case by case. The Bar of Ireland finds that this "displays a lack of
+proportionality": a minor administrative breach could mean a lifetime bar.
+
+The self-sufficiency test is left almost entirely to regulations; the Scheme gives only
+general criteria such as CSO earnings data and the cost of living. Because the condition
+continues until a decision, it could exclude people on maternity leave or illness benefit,
+or who lose their job while waiting.
+
+How children and minors would be assessed, including for self-sufficiency, is also
+unclear.
+
 The Irish Human Rights and Equality Commission
 ([IHREC submission](https://www.ihrec.ie/downloads/2026.10.09-IHREC-Submission-General-Scheme-INCA-Bill-2026-Final-3.pdf))
 and the Bar of Ireland
 ([Bar submission](https://www.lawlibrary.ie/app/uploads/securepdfs/2026/10/TBOI-Submission-Nationality-Citizenship-Amendment-Bill.pdf))
 reach many of the same conclusions in their pre-legislative scrutiny submissions.
-
-Many of the Scheme's conditions could fall much harder on some groups of people than on
-others, and nothing in the Scheme prevents that. The income test would weigh most on
-carers, disabled people and women on maternity leave or working part-time. The language
-and civics tests would weigh on people with no test centre or preparation course within
-reach, including spouses living in Northern Ireland, and on Deaf people there, whose main
-sign language is British Sign Language. The permanent offence bar would weigh on long-term residents with
-an old, minor breach of registration rules, and the end of the good-character waiver on
-children aged 14 to 17. How far this happens would depend largely on the Minister. The
-Scheme leaves the Minister to set by regulation the income figure, the welfare payments
-and housing supports that count against an applicant, the language standard, the civics
-syllabus, the pass marks, the exemptions and further permissions that stop counting as
-residence. In setting the income and support rules, the Minister may also have regard to
-"such other matters as the Minister considers appropriate". Rules made this way could be
-written or applied so that some groups are treated less favourably than others, and the
-Oireachtas would not see them before the Bill is passed.
-
-The Scheme would also give the Minister significant new power over people who are
-already Irish citizens. Head 10 adds public policy, public order and national security as
-grounds for revoking citizenship without defining any of them. It also makes the procedure
-simpler for the Minister by removing the duty to consult the chair of the Committee of
-Inquiry when setting the inquiry's procedures. Combined with the existing power to withhold
-reasons on national-security grounds, the Minister could revoke a person's citizenship
-without the law saying what a breach of public order or national security means, and the
-person might not know the case they have to answer. The Scheme attaches no test of
-seriousness or proportionality to the new grounds, and shows no case that the existing
-grounds of fraud and an overt act of disloyalty could not deal with. Eight people lost
-citizenship in the last ten years, seven of them for fraud.
-
-A language and civics test is a reasonable requirement for citizenship in itself, but the
-Scheme does not consider what it would take to provide one. On the analysis's planning
-assumptions, 41,511 applications a year would mean about 100,000 test sittings and
-between 7 and 25 test centres, depending on their size. The State would also need staff
-to write, run and mark the tests, and courses and preparation material, so that people
-everywhere on the island, including in Northern Ireland, have an equal chance to learn
-and to pass. The Scheme gives no estimate of what this would cost. The language standard,
-the testing method, the exemptions and the civics content are left to regulations, and
-the Scheme says nothing about fees, test locations or when the service would start. That
-leaves applicants with a great deal of uncertainty.
-
-Schedule 1 lists offences of very different kinds, from identity fraud and illegal entry
-to paperwork duties such as notifying a new home address within 48 hours. Committing any
-of them would bar a person from citizenship with no time limit, and with no exception for
-the seriousness or age of the offence. Offences that are not in Schedule 1, such as
-ordinary theft, would still be weighed case by case under the good-character test. The
-Bar of Ireland calls the offence condition categorical and concludes that it "displays a
-lack of proportionality": a person could be barred for life for a minor administrative
-breach.
-
-The self-sufficiency test is left almost entirely to regulations. The Scheme says only
-that, in setting the minimum income, the Minister may consider CSO earnings data, the
-average cost of living and other matters. Depending on how it is set, it could exclude
-people on maternity leave, people receiving illness benefit and people who lose their job
-while their application is processed, because the income and support conditions continue
-until a decision.
-
-How children and minors would be treated is also unclear. The Scheme does not say whether
-or how a child's application would be assessed for self-sufficiency, or how the new tests
-would apply to children, so there is a lot of uncertainty here too.
 
 ## What the Scheme proposes
 
