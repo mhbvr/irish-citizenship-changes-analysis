@@ -1,6 +1,6 @@
 # The proposed citizenship changes: our position in brief
 
-**Version 0.20 · 26 October 2026** · A summary of the
+**Version 0.24 · 4 November 2026** · A summary of the
 [full analysis](https://mrphs.cc/position/) of the General Scheme of the Irish Nationality
 and Citizenship (Amendment) Bill 2026, published on 21 September 2026
 ([Scheme, PDF](https://assets.gov.ie/static/documents/cadca21c/General_Scheme_of_the_Irish_Nationality_and_Citizenship_Amendment_Bill_2026.pdf)).
@@ -8,12 +8,56 @@ The analysis is also available [as a PDF](citizenship-analysis.pdf).
 
 ## Position
 
-The Scheme would make the citizenship process slower and much less predictable for the
-people Ireland has deliberately recruited: nurses, doctors, carers, engineers and
-researchers. It does
-this without saying what problem it solves. Most of what would decide eligibility is
-left to future regulations. It has no transition rule and no start date. In our view it
-should not go ahead until its case is made with Irish evidence and for Irish needs.
+The Scheme gives no data-based analysis of why these changes are needed or how they would
+benefit Ireland. The evidence shows who they would affect: the people Ireland most needs.
+Most people who become Irish citizens came here to work, many of them on Critical Skills
+and General employment permits, in health and social care, IT and other skilled jobs that
+the State itself chose to fill from abroad.
+
+Naturalisation law is not a tool for managing migration. The State already decides
+directly who can come to work and who can join them, through employment permits and
+family rules, and asylum is decided separately under international protection law.
+Naturalisation decides who becomes an Irish citizen and a member of the Irish nation. It
+should reflect the values of the Irish people, not serve as another lever on migration.
+
+Many of the conditions could fall much harder on some groups than on others: the income
+test on carers, disabled people and mothers on leave or working part-time; the tests on
+people far from a test centre, including spouses in Northern Ireland; the permanent
+offence bar on residents with an old, minor breach; and the end of the good-character
+waiver on children aged 14 to 17. Much depends on the Minister, who would set by
+regulation the income figure, the supports that count against an applicant, the language
+standard, the civics syllabus, pass marks, exemptions and further excluded permissions,
+having regard to "such other matters as the Minister considers appropriate". Rules made
+this way could treat some groups less favourably than others, and the Oireachtas would
+not see them before the Bill is passed.
+
+Head 10 adds public policy, public order and national security as grounds for revoking
+citizenship without defining any of them, and removes the duty to consult the chair of
+the Committee of Inquiry on its procedures. With the existing power to withhold reasons
+on security grounds, the Minister could revoke citizenship without the law saying what
+these grounds mean, and the person might not know the case against them. No case has been
+shown that the existing grounds could not deal with: eight people lost citizenship in ten
+years, seven for fraud.
+
+Language and civics tests are reasonable in themselves, but the Scheme does not consider
+the cost of providing them. About 100,000 sittings a year would need 7 to 25 test centres,
+staff, courses and preparation material, so that people everywhere on the island,
+including in Northern Ireland, have an equal chance to pass. There is no cost estimate,
+and the standard, method, exemptions and content are left to regulations.
+
+Schedule 1 mixes offences of very different kinds, from identity fraud to notifying a new
+address within 48 hours. Any of them would bar citizenship with no time limit and no
+regard to seriousness or age, while offences outside it, such as ordinary theft, are
+weighed case by case. The Bar of Ireland finds that this "displays a lack of
+proportionality": a minor administrative breach could mean a lifetime bar.
+
+The self-sufficiency test is left almost entirely to regulations; the Scheme gives only
+general criteria such as CSO earnings data and the cost of living. Because the condition
+continues until a decision, it could exclude people on maternity leave or illness benefit,
+or who lose their job while waiting.
+
+How children and minors would be assessed, including for self-sufficiency, is also
+unclear.
 
 The Irish Human Rights and Equality Commission
 ([IHREC submission](https://www.ihrec.ie/downloads/2026.10.09-IHREC-Submission-General-Scheme-INCA-Bill-2026-Final-3.pdf))
