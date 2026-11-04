@@ -1,6 +1,6 @@
 # The proposed citizenship changes: our position in brief
 
-**Version 0.24 · 4 November 2026** · A summary of the
+**Version 0.26 · 4 November 2026** · A summary of the
 [full analysis](https://mrphs.cc/position/) of the General Scheme of the Irish Nationality
 and Citizenship (Amendment) Bill 2026, published on 21 September 2026
 ([Scheme, PDF](https://assets.gov.ie/static/documents/cadca21c/General_Scheme_of_the_Irish_Nationality_and_Citizenship_Amendment_Bill_2026.pdf)).
