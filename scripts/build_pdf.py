@@ -907,9 +907,21 @@ def read_version():
     return title, m.group(1), date
 
 
+def read_byline():
+    """The site footer's description of the analysis and who wrote it, e.g. "A view of the
+    September 2026 General Scheme from members of the Russian-speaking community in Ireland."
+    """
+    first = (ROOT / "index.html").read_text(encoding="utf-8")
+    footer = re.search(r"<footer>[\s\S]*?<p>([\s\S]*?)<a ", first).group(1)
+    byline = squash(html.unescape(footer)).strip()
+    authors = re.search(r" from (.+?)\.$", byline).group(1)
+    return byline, authors
+
+
 def build(output, submitter):
     styles = make_styles()
     title, version, date = read_version()
+    byline, authors = read_byline()
     b = Builder(styles)
     b.fig_no, b.tab_no = {}, {}
     # Every id on every page, so links can be checked as they are made.
@@ -941,8 +953,7 @@ def build(output, submitter):
     story.append(Paragraph(esc(title), ParagraphStyle(
         "cv2", fontName=BODY + "-Bold", fontSize=32, leading=37, textColor=INK, spaceAfter=14)))
     story.append(Paragraph(
-        "An individual view of the September 2026 General Scheme of the Irish Nationality and "
-        "Citizenship (Amendment) Bill.",
+        esc(byline),
         ParagraphStyle("cv3", fontName=BODY, fontSize=14, leading=19, textColor=MUTED,
                        spaceAfter=22)))
     cover_meta = ParagraphStyle("cv4", fontName=BODY, fontSize=11, leading=16, textColor=INK)
@@ -980,7 +991,7 @@ def build(output, submitter):
     def about():
         b.heading("About this submission", s["h2"], 1)
         b.numbered(
-            f"This is an individual submission to the {esc(COMMITTEE)} on the "
+            f"This is a submission from {esc(authors)} to the {esc(COMMITTEE)} on the "
             f"{esc(SCHEME)}, published on 21 September 2026. It sets out version {esc(version)} "
             f'of the analysis published at <a href="{SITE_URL}" color="{LINK}">{SITE_URL}</a>, '
             "unchanged in substance and arranged as one document."
@@ -1021,7 +1032,7 @@ def build(output, submitter):
     doc = Doc(
         str(output), meta,
         title=title,
-        author=submitter or "",
+        author=submitter or authors[0].upper() + authors[1:],
         subject=f"Submission to the {COMMITTEE}: pre-legislative scrutiny of the {SCHEME}",
         keywords=["Irish citizenship", "naturalisation", "pre-legislative scrutiny",
                   "Irish Nationality and Citizenship (Amendment) Bill 2026", "Oireachtas"],
