@@ -42,7 +42,6 @@ from reportlab.lib.units import mm
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.pdfmetrics import stringWidth
 from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.pdfgen import canvas as pdfcanvas
 from reportlab.platypus import (
     BaseDocTemplate,
     CondPageBreak,
@@ -829,30 +828,6 @@ def summary_md(b, version):
 # ------------------------------------------------------------------ document
 
 
-class NumberedCanvas(pdfcanvas.Canvas):
-    """Adds "Page X of Y" once the page count is known."""
-
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        self._saved = []
-
-    def showPage(self):
-        self._saved.append(dict(self.__dict__))
-        self._startPage()
-
-    def save(self):
-        total = len(self._saved)
-        for state in self._saved:
-            self.__dict__.update(state)
-            if self._pageNumber > 1:
-                self.setFont(BODY, 8.5)
-                self.setFillColor(MUTED)
-                self.drawRightString(PAGE_W - MARGIN_X, 12 * mm,
-                                     f"Page {self._pageNumber} of {total}")
-            super().showPage()
-        super().save()
-
-
 class Doc(BaseDocTemplate):
     def __init__(self, filename, meta, **kw):
         super().__init__(filename, pagesize=A4, leftMargin=MARGIN_X, rightMargin=MARGIN_X,
@@ -882,6 +857,10 @@ class Doc(BaseDocTemplate):
         c.line(MARGIN_X, PAGE_H - 16 * mm, PAGE_W - MARGIN_X, PAGE_H - 16 * mm)
         c.line(MARGIN_X, 16 * mm, PAGE_W - MARGIN_X, 16 * mm)
         c.drawString(MARGIN_X, 12 * mm, self.meta["footer"])
+        # Drawn as each page is made, so bookmarks and links keep their own pages.
+        total = self.meta.get("total_pages")
+        number = f"Page {doc.page} of {total}" if total else f"Page {doc.page}"
+        c.drawRightString(PAGE_W - MARGIN_X, 12 * mm, number)
         c.restoreState()
 
     def afterFlowable(self, flowable):
@@ -918,7 +897,7 @@ def read_byline():
     return byline, authors
 
 
-def build(output, submitter):
+def build(output, submitter, total_pages=None):
     styles = make_styles()
     title, version, date = read_version()
     byline, authors = read_byline()
@@ -1028,6 +1007,7 @@ def build(output, submitter):
                    "(Amendment) Bill 2026",
         "version_short": f"Version {version} · {date}",
         "footer": title,
+        "total_pages": total_pages,
     }
     doc = Doc(
         str(output), meta,
@@ -1040,7 +1020,8 @@ def build(output, submitter):
         lang="en-IE",
         displayDocTitle=1,
     )
-    doc.multiBuild(story, canvasmaker=NumberedCanvas)
+    doc.multiBuild(story)
+    b.pages = doc.page
 
     missing = sorted({(n, f) for n, f in b.links if n not in b.anchors and n not in
                       {e.key for e in story if isinstance(e, Heading)}})
@@ -1056,7 +1037,12 @@ def main():
     ap.add_argument("--fonts", default=os.environ.get("FONT_DIR", ""))
     args = ap.parse_args()
     register_fonts(args.fonts)
-    b = build(Path(args.output).resolve(), args.submitter.strip())
+    output = Path(args.output).resolve()
+    # First pass counts the pages for "Page X of Y"; the second writes the file.
+    first = build(output, args.submitter.strip())
+    b = build(output, args.submitter.strip(), total_pages=first.pages)
+    if b.pages != first.pages:
+        raise SystemExit(f"Page count changed between passes: {first.pages} -> {b.pages}")
     print(f"Wrote {args.output}: {b.para_no} numbered paragraphs, "
           f"{len(b.figure_tables)} figures")
 

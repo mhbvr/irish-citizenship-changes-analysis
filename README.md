@@ -1,6 +1,6 @@
 # Analysis of the proposed amendment to the citizenship law
 
-**Version 0.25 · 4 November 2026, 19:27 GMT**
+**Version 0.26 · 4 November 2026, 19:30 GMT**
 
 A view of the September 2026 General Scheme of the Irish Nationality and Citizenship
 (Amendment) Bill from members of the Russian-speaking community in Ireland, as a static
@@ -117,8 +117,8 @@ address in the call for submissions.
 
 ## Version
 
-The version appears in the sidebar and footer of every page (“Version 0.25 · 4 November
-2026, 19:27 GMT”). When you publish a new version, search and replace that text in all pages and at
+The version appears in the sidebar and footer of every page (“Version 0.26 · 4 November
+2026, 19:30 GMT”). When you publish a new version, search and replace that text in all pages and at
 the top of this file.
 
 ## Checking evidence copies
